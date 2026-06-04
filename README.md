@@ -131,7 +131,7 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default&border_radius=10#gh-light-mode-only" media="(prefers-color-scheme: light)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=tokyonight&border_radius=10#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <img src="assets/readme/metrics-stats.svg" alt="Hoàng Tiến's GitHub Stats (fallback)" height="175" />
+    <img src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/main/assets/readme/metrics-stats.svg" alt="Hoàng Tiến's GitHub Stats (fallback)" height="175" />
   </picture>
 </p>
 
@@ -139,7 +139,7 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=default&border_radius=10#gh-light-mode-only" media="(prefers-color-scheme: light)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=tokyonight&border_radius=10#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <img src="assets/readme/top-langs.svg" alt="Hoàng Tiến's Top Languages (fallback)" height="175" />
+    <img src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/main/assets/readme/top-langs.svg" alt="Hoàng Tiến's Top Languages (fallback)" height="175" />
   </picture>
 </p>
 
@@ -147,23 +147,23 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=default&border_radius=10#gh-light-mode-only" media="(prefers-color-scheme: light)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=tokyonight&border_radius=10#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <img src="assets/readme/streak.svg" alt="GitHub Streak (fallback)" />
+    <img src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/main/assets/readme/streak.svg" alt="GitHub Streak (fallback)" />
   </picture>
 </p>
 
 <h4 align="center">📈 Coding Activity Graph</h4>
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=default&hide_border=true&border_radius=10#gh-light-mode-only"
-    alt="Activity graph light"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=default&hide_border=true&border_radius=10#gh-light-mode-only" />
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=tokyonight&bg_color=1a1b26&hide_border=true&border_radius=10#gh-dark-mode-only"
-    alt="Activity graph dark"
-    width="100%"
-  />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=tokyonight&bg_color=1a1b26&hide_border=true&border_radius=10#gh-dark-mode-only" />
+
+    <img src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/main/assets/readme/activity-graph.svg" alt="Activity graph (fallback)" width="100%" />
+  </picture>
 </p>
 
 <h4 align="center">👾 Contribution Snake Game</h4>
@@ -171,7 +171,7 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
   <picture>
     <source srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
     <source srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <img src="assets/readme/snake.svg" alt="Contribution snake (fallback)" />
+    <img src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/main/assets/readme/snake.svg" alt="Contribution snake (fallback)" />
   </picture>
 </p>
 
