@@ -21,12 +21,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ho4ngTien&theme=flat#gh-light-mode-only" alt="GitHub Trophies" />
-    <img src="https://github-profile-trophy.vercel.app/?username=ho4ngTien&theme=tokyonight&no-bg=true&margin-w=15#gh-dark-mode-only" alt="GitHub Trophies" />
-  </a>
-</p>
 
+  <picture>
+    <!-- DARK MODE -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+
+    <!-- LIGHT MODE -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif">
+
+    <!-- fallback -->
+    <img 
+      src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" 
+      width="100%" />
+  </picture>
+
+</p>
 ---
 
 ### 💫 About Me
@@ -38,8 +51,20 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 - ⚡ Fun fact: I enjoy solving complex architecture puzzles and optimizing query performance.
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default#gh-light-mode-only" alt="Programming Quote" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight#gh-dark-mode-only" alt="Programming Quote" />
+
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+
+    <img 
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+  </picture>
+
 </p>
 
 ---
@@ -86,53 +111,6 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 
 ### 🚀 Featured Projects
 
-<details open>
-  <summary><strong>🎓 TutorPro (Tutoring Management Platform)</strong></summary>
-  <br/>
-  
-  > A comprehensive tutoring management platform designed to support teaching, scheduling, and payment tracking.
-  
-  - **Tech Stack**: Spring Boot • React • MySQL • Docker
-  - **Key Features**:
-    - 👥 **Student & Course Management**: Clean, efficient data schemas for managing classes and students.
-    - 📅 **Scheduling System**: Intuitive scheduling for tutors and students.
-    - 💳 **Payment Tracking**: Easy invoice and receipt tracking.
-    - 📱 **Modern UI**: Clean, responsive layout for any device.
-</details>
-
-<br/>
-
-<details>
-  <summary><strong>🐟 Koi Farm Management System</strong></summary>
-  <br/>
-  
-  > Management software for breeding, tracking, and health monitoring of Koi fish farms.
-  
-  - **Tech Stack**: ASP.NET Core • SQL Server • Entity Framework Core
-  - **Key Features**:
-    - 📦 **Fish Inventory Management**: Real-time status tracking of Koi fish inventory.
-    - 🧬 **Breeding Tracking**: Keep historical logs of fish lineage and crossbreeding.
-    - 🩺 **Health Monitoring**: Record veterinary checkups, sickness logs, and recovery steps.
-    - 📊 **Sales Management**: Record sales records and track farm revenue.
-</details>
-
-<br/>
-
-<details>
-  <summary><strong>🔐 Secure Chat Application</strong></summary>
-  <br/>
-  
-  > End-to-end encrypted messaging application for secure private communication.
-  
-  - **Tech Stack**: C# • Diffie-Hellman • AES-256 • TCP/IP Sockets
-  - **Key Features**:
-    - 🔑 **Secure Key Exchange**: Diffie-Hellman key exchange ensures zero-knowledge security from external network sniffers.
-    - 🔒 **AES Message Encryption**: Highly secure symmetric encryption for all messages in transit.
-    - ⚡ **Real-Time Messaging**: Low-latency communication based on optimized socket connections.
-</details>
-
-<br/>
-
 <details>
   <summary><strong>🌐 Personal Portfolio Website</strong></summary>
   <br/>
@@ -150,27 +128,51 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 ### 📊 GitHub Metrics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default&border_radius=10#gh-light-mode-only" alt="Hoàng Tiến's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=tokyonight&border_radius=10#gh-dark-mode-only" alt="Hoàng Tiến's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=default&border_radius=10#gh-light-mode-only" alt="Hoàng Tiến's Top Languages" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=tokyonight&border_radius=10#gh-dark-mode-only" alt="Hoàng Tiến's Top Languages" height="175" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default&border_radius=10#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=tokyonight&border_radius=10#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <img src="assets/readme/metrics-stats.svg" alt="Hoàng Tiến's GitHub Stats (fallback)" height="175" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=default&border_radius=10#gh-light-mode-only" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=tokyonight&border_radius=10#gh-dark-mode-only" alt="GitHub Streak" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=default&border_radius=10#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=tokyonight&border_radius=10#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <img src="assets/readme/top-langs.svg" alt="Hoàng Tiến's Top Languages (fallback)" height="175" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=default&border_radius=10#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=tokyonight&border_radius=10#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <img src="assets/readme/streak.svg" alt="GitHub Streak (fallback)" />
+  </picture>
 </p>
 
 <h4 align="center">📈 Coding Activity Graph</h4>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=default&hide_border=true&border_radius=10#gh-light-mode-only" alt="GitHub Activity Graph" width="100%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=tokyonight&bg_color=1a1b26&hide_border=true&border_radius=10#gh-dark-mode-only" alt="GitHub Activity Graph" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=default&hide_border=true&border_radius=10#gh-light-mode-only"
+    alt="Activity graph light"
+    width="100%"
+  />
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=tokyonight&bg_color=1a1b26&hide_border=true&border_radius=10#gh-dark-mode-only"
+    alt="Activity graph dark"
+    width="100%"
+  />
 </p>
 
 <h4 align="center">👾 Contribution Snake Game</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake" />
-  <img src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <img src="assets/readme/snake.svg" alt="Contribution snake (fallback)" />
+  </picture>
 </p>
 
 ---
