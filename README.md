@@ -1,7 +1,7 @@
 # Hi there, I'm Hoàng Tiến 👋
 
 <p align="center">
-  <img src="https://komarev.com/personal-counter/?username=ho4ngTien&color=39D353&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ho4ngTien&color=39D353&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
