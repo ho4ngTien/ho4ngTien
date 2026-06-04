@@ -37,7 +37,11 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 - ⚡ Fun fact: I enjoy solving complex architecture puzzles and optimizing query performance.
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+    <img alt="Programming Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </picture>
 </p>
 
 ---
@@ -148,22 +152,42 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 ### 📊 GitHub Metrics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=tokyonight&border_radius=10" alt="Hoàng Tiến's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=tokyonight&border_radius=10" alt="Hoàng Tiến's Top Languages" height="175" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=tokyonight&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default&border_radius=10" />
+    <img alt="Hoàng Tiến's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=tokyonight&border_radius=10" height="175" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=tokyonight&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=default&border_radius=10" />
+    <img alt="Hoàng Tiến's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=tokyonight&border_radius=10" height="175" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=tokyonight&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=default&border_radius=10" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=tokyonight&border_radius=10" />
+  </picture>
 </p>
 
 <h4 align="center">📈 Coding Activity Graph</h4>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=tokyonight&bg_color=1a1b26&hide_border=true&border_radius=10" alt="GitHub Activity Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=tokyonight&bg_color=1a1b26&hide_border=true&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=default&hide_border=true&border_radius=10" />
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=tokyonight&bg_color=1a1b26&hide_border=true&border_radius=10" width="100%" />
+  </picture>
 </p>
 
 <h4 align="center">👾 Contribution Snake Game</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
