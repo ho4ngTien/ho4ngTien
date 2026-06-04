@@ -1,19 +1,14 @@
 # Hi there, I'm Hoàng Tiến 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ho4ngTien&color=39D353&style=flat-square&label=Profile+Views" alt="Profile Views" style="display:block;margin:0 auto;" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ho4ngTien&color=39D353&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=BACKEND+DEVELOPER;JAVA+%E2%80%A2+PYTHON+%E2%80%A2+C%23+%E2%80%A2+SQL+%E2%80%A2+GO;BUILDING+SCALABLE+SYSTEMS" alt="Typing SVG" style="display:block;margin:0 auto;" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=BACKEND+DEVELOPER;JAVA+%E2%80%A2+PYTHON+%E2%80%A2+C%23+%E2%80%A2+SQL+%E2%80%A2+GO;BUILDING+SCALABLE+SYSTEMS" alt="Typing SVG" />
+</div>
 
-<!-- Local preview helper -->
-<p align="center">
-  <a href="assets/readme/preview.html">Open local README preview</a> — or run PowerShell: <code>Start-Process .\assets\readme\preview.html</code>
-</p>
-
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/ti%E1%BA%BFn-ho%C3%A0ng-86ba60384/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -23,29 +18,19 @@
   <a href="https://www.facebook.com/hoang.ti3n" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</p>
+</div>
 
-<p align="center">
-
+<div align="center">
   <picture>
-    <!-- DARK MODE -->
     <source 
       media="(prefers-color-scheme: dark)" 
       srcset="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
-
-    <!-- LIGHT MODE -->
     <source 
       media="(prefers-color-scheme: light)" 
       srcset="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif">
-
-    <!-- fallback -->
-    <img 
-      src="./assets/readme/theme-widget.gif" 
-      width="100%" 
-      style="display:block;margin:0 auto;" />
+    <img src="./assets/readme/theme-widget.gif" width="100%" alt="Theme Widget" />
   </picture>
-
-</p>
+</div>
 ---
 
 ### 💫 About Me
@@ -56,23 +41,54 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 - 🎯 Goal: **Backend Developer Internship / Fresher Backend Engineer**
 - ⚡ Fun fact: I enjoy solving complex architecture puzzles and optimizing query performance.
 
-<p align="center">
+<br>
 
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+---
 
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+### 🧠 System Design Interests
 
-    <img 
-      src="./assets/readme/quotes.svg" 
-      style="display:block;margin:0 auto;" />
-  </picture>
+<div align="center">
 
-</p>
+<table>
+  <tr>
+    <th>🧠 Area</th>
+    <th>📌 Focus</th>
+  </tr>
+
+  <tr>
+    <td><b>REST API Design</b></td>
+    <td>Scalable & well-documented APIs</td>
+  </tr>
+
+  <tr>
+    <td><b>Caching Strategies</b></td>
+    <td>Redis, in-memory caching, invalidation patterns</td>
+  </tr>
+
+  <tr>
+    <td><b>Database Optimization</b></td>
+    <td>Indexing, query tuning, execution plans</td>
+  </tr>
+
+  <tr>
+    <td><b>Distributed Systems</b></td>
+    <td>Microservices, eventual consistency</td>
+  </tr>
+
+  <tr>
+    <td><b>Message Queues</b></td>
+    <td>RabbitMQ, Kafka, async processing</td>
+  </tr>
+
+  <tr>
+    <td><b>Security & Auth</b></td>
+    <td>JWT, OAuth2, API security best practices</td>
+  </tr>
+
+</table>
+
+</div>
+<br>
 
 ---
 
@@ -114,6 +130,8 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
   </tr>
 </table>
 
+<br>
+
 ---
 
 ### 🚀 Featured Projects
@@ -130,57 +148,77 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
     - 📱 **Fully Responsive**: Optimized viewports across mobile, tablet, and desktop screens.
 </details>
 
+<br>
+
 ---
 
-### 📊 GitHub Metrics & Contributions
+### � Daily Inspiration
 
-<p align="center">
+<div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default&border_radius=10#gh-light-mode-only" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=tokyonight&border_radius=10#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <img src="./assets/readme/metrics-stats.svg" alt="Hoàng Tiến's GitHub Stats (fallback)" height="175" style="display:block;margin:0 auto;" />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Quote of the day" />
   </picture>
-</p>
+</div>
 
-<p align="center">
+<br>
+
+---
+
+### �📊 GitHub Metrics & Contributions
+
+<div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=default&border_radius=10#gh-light-mode-only" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=tokyonight&border_radius=10#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <img src="./assets/readme/top-langs.svg" alt="Hoàng Tiến's Top Languages (fallback)" height="175" style="display:block;margin:0 auto;" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default&border_radius=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=tokyonight&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default&border_radius=10" alt="GitHub Stats" height="175" />
   </picture>
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=default&border_radius=10#gh-light-mode-only" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=tokyonight&border_radius=10#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <img src="./assets/readme/streak.svg" alt="GitHub Streak (fallback)" style="display:block;margin:0 auto;" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=default&border_radius=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=tokyonight&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=default&border_radius=10" alt="Top Languages" height="175" />
   </picture>
-</p>
+</div>
 
-<h4 align="center">📈 Coding Activity Graph</h4>
-<p align="center">
+<br>
+
+<div align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=default&hide_border=true&border_radius=10#gh-light-mode-only" />
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=tokyonight&bg_color=1a1b26&hide_border=true&border_radius=10#gh-dark-mode-only" />
-
-    <img src="./assets/readme/activity-graph.svg" alt="Activity graph (fallback)" width="100%" style="display:block;margin:0 auto;" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=default&border_radius=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=tokyonight&border_radius=10" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=default&border_radius=10" alt="GitHub Streak" />
   </picture>
-</p>
+</div>
 
-<h4 align="center">👾 Contribution Snake Game</h4>
-<p align="center">
+<br>
+
+<div align="center">
+  <h4>📈 Coding Activity Graph</h4>
   <picture>
-    <source srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
-    <source srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-    <img src="./assets/readme/snake.svg" alt="Contribution snake (fallback)" style="display:block;margin:0 auto;" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=default&hide_border=true&border_radius=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=tokyonight&bg_color=1a1b26&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=default&hide_border=true&border_radius=10" alt="Activity Graph" width="100%" />
   </picture>
-</p>
+</div>
+
+<div align="center">
+  <h4>👾 Contribution Snake Game</h4>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </picture>
+</div>
 
 ---
 
@@ -194,7 +232,7 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 
 ### 🤝 Connect with Me
 
-<p align="left">
+<div align="center">
   <a href="mailto:maichilanoob@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -207,9 +245,8 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
   <a href="https://github.com/ho4ngTien">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</div>
 
-<br/>
-<p align="center">📞 **Phone / Zalo**: 0375705551</p>
-<br/>
-<p align="center">⭐ Keep building and learning! ⭐</p>
+<div align="center">
+  ⭐ Keep building and learning! ⭐
+</div>
