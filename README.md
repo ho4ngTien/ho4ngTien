@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=BACKEND+DEVELOPER;JAVA+%E2%80%A2+PYTHON+%E2%80%A2+C%23+%E2%80%A2+SQL+%E2%80%A2+GO;BUILDING+SCALABLE+SYSTEMS" alt="Typing SVG" style="display:block;margin:0 auto;" />
 </p>
 
+<!-- Local preview helper -->
+<p align="center">
+  <a href="assets/readme/preview.html">Open local README preview</a> — or run PowerShell: <code>Start-Process .\assets\readme\preview.html</code>
+</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/ti%E1%BA%BFn-ho%C3%A0ng-86ba60384/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
