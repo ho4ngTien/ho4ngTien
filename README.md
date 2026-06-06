@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=BACKEND+DEVELOPER;JAVA+%E2%80%A2+PYTHON+%E2%80%A2+C%23+%E2%80%A2+SQL+%E2%80%A2+GO;BUILDING+SCALABLE+SYSTEMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=BACKEND+DEVELOPER;Python+%E2%80%A2+Javascript+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+C%23;C%2FC%2B%2B+%E2%80%A2+Golang+%E2%80%A2+Rust+%E2%80%A2+PHP+%E2%80%A2+Kotlin;Swift+%E2%80%A2+Dart+%E2%80%A2+SQL;BUILDING+SCALABLE+SYSTEMS" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,15 +21,7 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif">
-    <img src="./assets/readme/theme-widget.gif" width="100%" alt="Theme Widget" />
-  </picture>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjR2NmcxNGEyMGpsdHI5cWI1N2Z6cGQycWx6ZGdkNnRlNmd4OXppcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9YbZxUobLqOKhW/giphy.gif" width="75%" alt="City Night" />
 </div>
 ---
 
@@ -127,6 +119,19 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
     </td>
+  <tr>
+    <td valign="top" colspan="2">
+      <h4>🧑‍💻 More Languages</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+    </td>
   </tr>
 </table>
 
@@ -150,9 +155,28 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 
 <br>
 
+<details>
+  <summary><strong>🌊 Flood Rescue Coordination & Relief Management System</strong></summary>
+  <br/>
+
+  > A microservices platform built for real flood emergency scenarios — coordinating rescue requests, team dispatching, GPS tracking, relief supply management, and real-time operations monitoring across 5 actor roles.
+
+  - **Role**: 👨‍💻 Tech Lead (6-person team) — architecture design, tech stack selection, microservices skeleton setup, CI/CD pipeline, sprint management via Jira
+  - **Tech Stack**: Java Spring Boot • Next.js • Spring Cloud Gateway • RabbitMQ • Docker • GitHub Actions • PostgreSQL
+  - **Key Features**:
+    - 🗺️ **GPS Live Tracking**: Rescue teams report location every 10s; coordinators monitor on live map.
+    - 📡 **Real-time SSE Notifications**: Instant alerts for citizens, coordinators, and rescue teams at each state transition.
+    - 🏗️ **Microservices Architecture**: Each service owns its own database (Database per Service), communicates async via RabbitMQ.
+    - 📦 **Relief Supply Management**: Warehouse tracking, distribution to victims, low-stock alerts.
+    - 📊 **Operations Dashboard**: Daily request count, completion rate, avg response time, per-team performance.
+  - **Repo**: [longtq2501/Flood-Rescue-Coordination-and-Relief-Management-System](https://github.com/longtq2501/Flood-Rescue-Coordination-and-Relief-Management-System)
+</details>
+
+<br>
+
 ---
 
-### � Daily Inspiration
+### 💡 Daily Inspiration
 
 <div align="center">
   <picture>
@@ -170,13 +194,13 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 
 ---
 
-### �📊 GitHub Metrics & Contributions
+### 📊 GitHub Metrics & Contributions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default&border_radius=10" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=tokyonight&border_radius=10" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default&border_radius=10" alt="GitHub Stats" height="175" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ho4ngTien&theme=github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ho4ngTien&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ho4ngTien&theme=github" alt="GitHub Stats" height="175" />
   </picture>
 </div>
 
@@ -184,9 +208,9 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=default&border_radius=10" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=tokyonight&border_radius=10" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=default&border_radius=10" alt="Top Languages" height="175" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ho4ngTien&theme=github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ho4ngTien&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ho4ngTien&theme=github" alt="Top Languages" height="175" />
   </picture>
 </div>
 
