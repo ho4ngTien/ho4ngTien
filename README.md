@@ -186,7 +186,7 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
     <source 
       media="(prefers-color-scheme: light)" 
       srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Quote of the day" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Quote of the day" width="100%" />
   </picture>
 </div>
 
@@ -208,6 +208,13 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
       </td>
       <td>
         <picture>
+          <source media="(prefers-color-scheme: light)" srcset="assets/readme/streak-light.svg" />
+          <source media="(prefers-color-scheme: dark)" srcset="assets/readme/streak-dark.svg" />
+          <img src="assets/readme/streak-light.svg" alt="GitHub Streak" height="175" />
+        </picture>
+      </td>
+      <td>
+        <picture>
           <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ho4ngTien&theme=github" />
           <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ho4ngTien&theme=tokyonight" />
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ho4ngTien&theme=github" alt="Top Languages" height="175" />
@@ -220,22 +227,20 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 <br>
 
 <div align="center">
-  <img src="assets/readme/streak.svg" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <h4>📈 Coding Activity Graph</h4>
-  <img src="assets/readme/activity-graph.svg" alt="Activity Graph" width="100%" />
-</div>
-
-<div align="center">
   <h4>👾 Contribution Snake Game</h4>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/ho4ngTien/ho4ngTien/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </picture>
+</div>
+
+<div align="center">
+  <h4>📈 Coding Activity Graph</h4>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/readme/activity-graph-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/readme/activity-graph-dark.svg" />
+    <img src="assets/readme/activity-graph-light.svg" alt="Activity Graph" width="100%" />
   </picture>
 </div>
 

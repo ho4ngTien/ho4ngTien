@@ -2,12 +2,14 @@ name: Update README assets
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 1 * * *' # 01:00 UTC daily, after snake workflow
   workflow_dispatch: {}
 
 jobs:
   update-assets:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:

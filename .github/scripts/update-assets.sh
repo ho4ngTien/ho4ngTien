@@ -5,19 +5,23 @@ repo_root="$(pwd)"
 assets_dir="$repo_root/assets/readme"
 mkdir -p "$assets_dir"
 
-# Remote endpoints (light-mode variants / defaults)
-metrics_url="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default&border_radius=10"
-toplangs_url="https://github-readme-stats.vercel.app/api/top-langs/?username=ho4ngTien&layout=compact&theme=default&border_radius=10"
-streak_url="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=default&border_radius=10"
-activity_url="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=default&hide_border=true&border_radius=10"
+# ── Light-theme variants (matches github-profile-summary-cards theme=github) ──
+streak_light_url="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=github&border_radius=10&hide_border=true"
+activity_light_url="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=github&hide_border=true&border_radius=10"
+
+# ── Dark-theme variants (matches github-profile-summary-cards theme=tokyonight) ──
+streak_dark_url="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=tokyonight&border_radius=10&hide_border=true"
+activity_dark_url="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=tokyo-night&bg_color=1a1b26&hide_border=true&border_radius=10"
+
+# ── Other static assets ──
 quotes_url="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"
 theme_dark_gif="https://media.giphy.com/media/mEZoPCmHmQIpK3jRgn/giphy.gif"
 
 declare -A files=(
-  ["metrics-stats.svg"]="$metrics_url"
-  ["top-langs.svg"]="$toplangs_url"
-  ["streak.svg"]="$streak_url"
-  ["activity-graph.svg"]="$activity_url"
+  ["streak-light.svg"]="$streak_light_url"
+  ["streak-dark.svg"]="$streak_dark_url"
+  ["activity-graph-light.svg"]="$activity_light_url"
+  ["activity-graph-dark.svg"]="$activity_dark_url"
   ["quotes.svg"]="$quotes_url"
   ["theme-widget.gif"]="$theme_dark_gif"
 )
