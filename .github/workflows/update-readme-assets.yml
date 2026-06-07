@@ -15,6 +15,10 @@ jobs:
         with:
           persist-credentials: true
 
+      - name: Fix line endings
+        run: sed -i 's/\r//' .github/scripts/update-assets.sh
+        shell: bash
+
       - name: Run asset updater script
         run: bash .github/scripts/update-assets.sh
         shell: bash
