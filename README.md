@@ -142,7 +142,7 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 ### 🚀 Featured Projects
 
 <details>
-  <summary><strong>🌐 Personal Portfolio Website</strong></summary>
+  <summary><strong><a href="https://my-profile-94co1kksc-ho4ng-tien.vercel.app/">🌐 Personal Portfolio Website</a></strong></summary>
   <br/>
   
   > Modern portfolio website showcasing my profile, projects, and backend skills.
@@ -151,6 +151,7 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
   - **Key Features**:
     - 🎨 **Sleek UX/UI**: Clean and professional modern landing page.
     - 📱 **Fully Responsive**: Optimized viewports across mobile, tablet, and desktop screens.
+  - **Live Demo**: [My Profile](https://my-profile-94co1kksc-ho4ng-tien.vercel.app/)
 </details>
 
 <br>
