@@ -16,5 +16,5 @@ jobs:
           persist-credentials: true
 
       - name: Run asset updater script
-        run: .github/scripts/update-assets.sh
+        run: bash .github/scripts/update-assets.sh
         shell: bash
