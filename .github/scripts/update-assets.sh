@@ -7,7 +7,7 @@ mkdir -p "$assets_dir"
 
 # ── Light-theme variants (matches github-profile-summary-cards theme=github) ──
 streak_light_url="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=github&border_radius=10&hide_border=true"
-activity_light_url="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=github&hide_border=true&border_radius=10"
+activity_light_url="https://github-readme-activity-graph.vercel.app/graph?username=ho4ngTien&theme=minimal&hide_border=true&border_radius=10"
 
 # ── Dark-theme variants (matches github-profile-summary-cards theme=tokyonight) ──
 streak_dark_url="https://github-readme-streak-stats.herokuapp.com/?user=ho4ngTien&theme=tokyonight&border_radius=10&hide_border=true"
