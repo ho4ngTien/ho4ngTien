@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</h3>
-          <p>- Martin Fowler</p>
+          <h3>The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.</h3>
+          <p>- Fred Brooks</p>
         </div>
       </div>
     </foreignObject>
