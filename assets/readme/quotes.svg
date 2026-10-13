@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.</h3>
-          <p>- Andy Hunt (author)</p>
+          <h3>Compatibility means deliberately repeating other people’s mistakes.</h3>
+          <p>- David Wheeler (computer scientist)</p>
         </div>
       </div>
     </foreignObject>
