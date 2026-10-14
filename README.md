@@ -162,7 +162,7 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 
   > A microservices platform built for real flood emergency scenarios — coordinating rescue requests, team dispatching, GPS tracking, relief supply management, and real-time operations monitoring across 5 actor roles.
 
-  - **Role**: 👨‍💻 Tech Lead (6-person team) — architecture design, tech stack selection, microservices skeleton setup, CI/CD pipeline, sprint management via Jira
+  - **Role**: 👨‍💻 Member (6-person team) — architecture design, tech stack selection, microservices skeleton setup, CI/CD pipeline, sprint management via Jira
   - **Tech Stack**: Java Spring Boot • Next.js • Spring Cloud Gateway • RabbitMQ • Docker • GitHub Actions • PostgreSQL
   - **Key Features**:
     - 🗺️ **GPS Live Tracking**: Rescue teams report location every 10s; coordinators monitor on live map.
