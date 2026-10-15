@@ -19,6 +19,14 @@ jobs:
         run: sed -i 's/\r//' .github/scripts/update-assets.sh
         shell: bash
 
+      - name: Generate activity graph SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GRAPH_USERNAME: ho4ngTien
+          ASSETS_DIR: assets/readme
+        run: python3 .github/scripts/generate-activity-graph.py
+        shell: bash
+
       - name: Run asset updater script
         run: bash .github/scripts/update-assets.sh
         shell: bash
