@@ -56,6 +56,7 @@ if [ "$changed" = true ]; then
   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
   git add "$assets_dir"
   if git commit -m "chore(readme): update readme assets [skip ci]"; then
+    git pull --rebase
     git push
   else
     echo "Nothing to commit"
