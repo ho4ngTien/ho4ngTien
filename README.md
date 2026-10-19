@@ -201,9 +201,9 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ho4ngTien&theme=github" />
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ho4ngTien&theme=tokyonight" />
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ho4ngTien&theme=github" alt="GitHub Stats" height="175" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=github_dark" />
+          <img src="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default" alt="GitHub Stats" height="175" />
         </picture>
       </td>
       <td>
