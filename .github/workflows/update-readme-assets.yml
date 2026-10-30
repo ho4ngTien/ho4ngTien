@@ -2,7 +2,7 @@ name: Update README assets
 
 on:
   schedule:
-    - cron: '0 1 * * *' # 01:00 UTC daily, after snake workflow
+    - cron: '59 16 * * *' # 01:00 UTC daily, after snake workflow
   workflow_dispatch: {}
 
 jobs:
