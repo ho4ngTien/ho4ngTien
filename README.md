@@ -200,11 +200,7 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
   <table>
     <tr>
       <td>
-        <picture>
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default" />
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=github_dark" />
-          <img src="https://github-readme-stats.vercel.app/api?username=ho4ngTien&show_icons=true&theme=default" alt="GitHub Stats" height="175" />
-        </picture>
+        <img src="assets/readme/git-stats.svg" alt="GitHub Stats" />
       </td>
       <td>
         <picture>
