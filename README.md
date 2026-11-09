@@ -202,6 +202,9 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
       <td>
         <img src="assets/readme/git-stats.svg" alt="GitHub Stats" />
       </td>
+    </tr>
+  <table>
+    <tr>
       <td>
         <picture>
           <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ho4ngTien&theme=github&border_radius=10&hide_border=true" />
