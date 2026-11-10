@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=BACKEND+DEVELOPER;Python+%E2%80%A2+Javascript+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+C%23;C%2FC%2B%2B+%E2%80%A2+Golang+%E2%80%A2+Rust+%E2%80%A2+PHP+%E2%80%A2+Kotlin;Swift+%E2%80%A2+Dart+%E2%80%A2+SQL;BUILDING+SCALABLE+SYSTEMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=BACKEND+DEVELOPER;JAVA+%E2%80%A2+.NET+%E2%80%A2+SQL;SYSTEMS+DESIGN+%E2%80%A2+MICROSERVICES;BUILDING+SCALABLE+APIS" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,15 +23,22 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjR2NmcxNGEyMGpsdHI5cWI1N2Z6cGQycWx6ZGdkNnRlNmd4OXppcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9YbZxUobLqOKhW/giphy.gif" width="75%" alt="City Night" />
 </div>
+
 ---
 
 ### 💫 About Me
 
-I am an Information Technology student at **Ho Chi Minh City University of Transportation (ĐH GTVT TP.HCM)**, passionate about **Backend Development**, **Database Design & Optimization**, and building highly scalable, maintainable **Distributed Systems**. I love writing clean, elegant code and continuously learning new technologies.
+I’m a **Backend Developer** and **Information Technology student** at **Ho Chi Minh City University of Transportation (ĐH GTVT TP.HCM)**, focused on building scalable backend systems, clean APIs, and efficient database-driven applications.
+
+I’m passionate about:
+- **Backend development** with Java, .NET, and Node.js ecosystems
+- **Database design & optimization** for high-performance systems
+- **System design** and building maintainable distributed services
+- Writing code that is clean, robust, and production-ready
 
 - 📍 Located in: **Ho Chi Minh City, Vietnam**
 - 🎯 Goal: **Backend Developer Internship / Fresher Backend Engineer**
-- ⚡ Fun fact: I enjoy solving complex architecture puzzles and optimizing query performance.
+- ⚡ Fun fact: I enjoy turning complex problems into simple, scalable solutions.
 
 <br>
 
@@ -203,20 +210,12 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
         <img src="assets/readme/git-stats.svg" alt="GitHub Stats" />
       </td>
     </tr>
-  <table>
     <tr>
       <td>
         <picture>
           <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ho4ngTien&theme=github&border_radius=10&hide_border=true" />
           <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ho4ngTien&theme=tokyonight&border_radius=10&hide_border=true" />
           <img src="https://streak-stats.demolab.com/?user=ho4ngTien&theme=github&border_radius=10&hide_border=true" alt="GitHub Streak" height="175" />
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ho4ngTien&theme=github" />
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ho4ngTien&theme=tokyonight" />
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ho4ngTien&theme=github" alt="Top Languages" height="175" />
         </picture>
       </td>
     </tr>
@@ -247,9 +246,10 @@ I am an Information Technology student at **Ho Chi Minh City University of Trans
 
 ### 📚 Currently Learning & Exploring
 
-- 🏗️ **Microservices Architecture & System Design Fundamentals**
-- ☁️ **Cloud Computing & DevOps (CI/CD pipelines)**
-- 🌟 **Advanced Spring Boot features & ASP.NET Core performance scaling**
+- 🏗️ **Microservices Architecture & System Design fundamentals**
+- ☁️ **Cloud Computing & DevOps (CI/CD, Docker, deployment workflows)**
+- 🌟 **Advanced Spring Boot and .NET backend performance optimization**
+- 🧠 **Database scaling, query optimization, and distributed system patterns**
 
 ---
 
