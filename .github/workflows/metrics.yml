@@ -2,12 +2,9 @@ name: Update GitHub metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # GitHub Actions uses UTC; 16:59 UTC is 23:59 in Vietnam (UTC+7).
+    - cron: "59 16 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
 
 jobs:
   update-metrics:
@@ -15,6 +12,31 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graphs
+        run: python3 .github/scripts/generate-activity-graph.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Refresh streak cards
+        run: |
+          curl -fsSL "https://streak-stats.demolab.com/?user=ho4ngTien&theme=github&border_radius=10&hide_border=true" -o assets/readme/streak-light.svg
+          curl -fsSL "https://streak-stats.demolab.com/?user=ho4ngTien&theme=tokyonight&border_radius=10&hide_border=true" -o assets/readme/streak-dark.svg
+
+      - name: Commit generated contribution cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/readme/activity-graph-light.svg assets/readme/activity-graph-dark.svg assets/readme/streak-light.svg assets/readme/streak-dark.svg
+          if git diff --cached --quiet; then
+            echo "Contribution cards are already up to date."
+          else
+            git commit -m "chore(readme): update contribution cards [skip ci]"
+            git push
+          fi
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:

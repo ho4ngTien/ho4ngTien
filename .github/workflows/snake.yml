@@ -1,18 +1,12 @@
 name: Generate Snake
 
 on:
-  # run automatically every 24 hours
+  # GitHub Actions uses UTC; 16:59 UTC is 23:59 in Vietnam (UTC+7).
   schedule:
-    - cron: "0 0 * * *" # run every day at midnight
+    - cron: "59 16 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the main/master branch
-  push:
-    branches:
-    - main
-    - master
 
 jobs:
   generate:

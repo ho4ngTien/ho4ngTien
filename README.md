@@ -213,9 +213,9 @@ I’m passionate about:
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ho4ngTien&theme=github&border_radius=10&hide_border=true" />
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ho4ngTien&theme=tokyonight&border_radius=10&hide_border=true" />
-          <img src="https://streak-stats.demolab.com/?user=ho4ngTien&theme=github&border_radius=10&hide_border=true" alt="GitHub Streak" height="175" />
+          <source media="(prefers-color-scheme: light)" srcset="assets/readme/streak-light.svg" />
+          <source media="(prefers-color-scheme: dark)" srcset="assets/readme/streak-dark.svg" />
+          <img src="assets/readme/streak-light.svg" alt="GitHub Streak" height="175" />
         </picture>
       </td>
     </tr>
