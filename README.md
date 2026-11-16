@@ -149,15 +149,17 @@ I’m passionate about:
 ### 🚀 Featured Projects
 
 <details>
-  <summary><strong><a href="https://my-profile-awoc1ah2a-ho4ng-tien.vercel.app/">🌐 Personal Portfolio Website</a></strong></summary>
+  <summary><strong><a href="https://github.com/ho4ngTien/CRM-Knowledge-and-Policy-Assistant">🤖 CRM Knowledge & Policy Assistant</a></strong></summary>
   <br/>
-  
-  > Modern portfolio website showcasing my profile, projects, and backend skills.
-  
-  - **Tech Stack**: React • TypeScript • TailwindCSS • Vite
+
+  > An internal Vietnamese-language assistant that helps employees find reliable answers about CRM processes and company policies.
+
+  - **Role**: 👨‍💼 PM / Tech Lead
+  - **Tech Stack**: FastAPI • Python • Next.js • TypeScript • PostgreSQL • pgvector • Redis • Celery • Docker Compose
   - **Key Features**:
-    - 🎨 **Sleek UX/UI**: Clean and professional modern landing page.
-    - 📱 **Fully Responsive**: Optimized viewports across mobile, tablet, and desktop screens.
+    - 📚 **Source-backed Answers**: Grounds guidance in relevant policy clauses.
+    - 🔎 **Policy Validation**: Checks policy scope and version before answering.
+    - 🧾 **Escalation & Extraction**: Extracts key details and flags missing or conflicting information for policy owners.
 </details>
 
 <br>
@@ -166,20 +168,31 @@ I’m passionate about:
   <summary><strong>🌊 Flood Rescue Coordination & Relief Management System</strong></summary>
   <br/>
 
-  > A microservices platform built for real flood emergency scenarios — coordinating rescue requests, team dispatching, GPS tracking, relief supply management, and real-time operations monitoring across 5 actor roles.
+  > A microservices platform for coordinating flood rescue requests, team dispatch, live tracking, and relief operations.
 
-  - **Role**: 👨‍💻 Member (6-person team) — architecture design, tech stack selection, microservices skeleton setup, CI/CD pipeline, sprint management via Jira
+  - **Role**: 👨‍💻 Developer (6-person team) — Resource Services and UI design
   - **Tech Stack**: Java Spring Boot • Next.js • Spring Cloud Gateway • RabbitMQ • Docker • GitHub Actions • PostgreSQL
   - **Key Features**:
-    - 🗺️ **GPS Live Tracking**: Rescue teams report location every 10s; coordinators monitor on live map.
-    - 📡 **Real-time SSE Notifications**: Instant alerts for citizens, coordinators, and rescue teams at each state transition.
-    - 🏗️ **Microservices Architecture**: Each service owns its own database (Database per Service), communicates async via RabbitMQ.
-    - 📦 **Relief Supply Management**: Warehouse tracking, distribution to victims, low-stock alerts.
-    - 📊 **Operations Dashboard**: Daily request count, completion rate, avg response time, per-team performance.
+    - 🗺️ **Rescue Coordination**: Tracks rescue requests, team dispatch, and field locations.
+    - 📡 **Live Updates**: Sends real-time notifications through server-sent events (SSE).
+    - 📦 **Relief Operations**: Manages warehouse supplies and distribution to people in need.
+    - 🏗️ **Microservices**: Services communicate asynchronously through RabbitMQ.
   - **Repo**: [longtq2501/Flood-Rescue-Coordination-and-Relief-Management-System](https://github.com/longtq2501/Flood-Rescue-Coordination-and-Relief-Management-System)
 </details>
 
 <br>
+
+<details>
+  <summary><strong><a href="https://my-profile-awoc1ah2a-ho4ng-tien.vercel.app/">🌐 Personal Portfolio Website</a></strong></summary>
+  <br/>
+
+  > Modern portfolio website showcasing my profile, projects, and backend skills.
+
+  - **Tech Stack**: React • TypeScript • TailwindCSS • Vite
+  - **Key Features**:
+    - 🎨 **Project Showcase**: Presents my profile, projects, and technical skills.
+    - 📱 **Responsive Design**: Adapts to mobile, tablet, and desktop screens.
+</details>
 
 ---
 
