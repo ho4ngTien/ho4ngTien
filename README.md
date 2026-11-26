@@ -28,17 +28,21 @@
 
 ### 💫 About Me
 
-I’m a **Backend Developer** and **Information Technology student** at **Ho Chi Minh City University of Transportation (ĐH GTVT TP.HCM)**, focused on building scalable backend systems, clean APIs, and efficient database-driven applications.
+I’m an **Information Technology student** at **Ho Chi Minh City University of Transportation (ĐH GTVT TP.HCM)** and an aspiring **Backend Engineer**, with hands-on experience building APIs, microservices, database-driven applications, and full-stack features.
+
+I enjoy turning real-world problems into practical systems. My recent work includes a **CRM knowledge and policy assistant** using FastAPI and RAG techniques, and a **flood rescue coordination platform** built with Java Spring Boot, RabbitMQ, PostgreSQL, and SSE notifications.
 
 I’m passionate about:
-- **Backend development** with Java, .NET, and Node.js ecosystems
-- **Database design & optimization** for high-performance systems
-- **System design** and building maintainable distributed services
-- Writing code that is clean, robust, and production-ready
+- **Backend development** with Java/Spring Boot and C#/.NET
+- **Database design, indexing, and query optimization**
+- **RESTful APIs, microservices, and asynchronous communication**
+- **Docker, CI/CD, observability, and cloud deployment fundamentals**
+- Writing maintainable code and collaborating effectively in a team
 
 - 📍 Located in: **Ho Chi Minh City, Vietnam**
 - 🎯 Goal: **Backend Developer Internship / Fresher Backend Engineer**
-- ⚡ Fun fact: I enjoy turning complex problems into simple, scalable solutions.
+- 🌱 Current focus: **Building scalable services and applying system design principles**
+- ⚡ Fun fact: I enjoy breaking down complex problems into simple, reliable solutions.
 
 <br>
 
@@ -56,32 +60,42 @@ I’m passionate about:
 
   <tr>
     <td><b>REST API Design</b></td>
-    <td>Scalable & well-documented APIs</td>
+    <td>Clean contracts, versioning, validation & documentation</td>
   </tr>
 
   <tr>
     <td><b>Caching Strategies</b></td>
-    <td>Redis, in-memory caching, invalidation patterns</td>
+    <td>Redis, cache-aside, TTLs & invalidation patterns</td>
   </tr>
 
   <tr>
     <td><b>Database Optimization</b></td>
-    <td>Indexing, query tuning, execution plans</td>
+    <td>Schema design, indexing, query tuning & execution plans</td>
   </tr>
 
   <tr>
     <td><b>Distributed Systems</b></td>
-    <td>Microservices, eventual consistency</td>
+    <td>Microservices, service boundaries & eventual consistency</td>
   </tr>
 
   <tr>
     <td><b>Message Queues</b></td>
-    <td>RabbitMQ, Kafka, async processing</td>
+    <td>RabbitMQ, Kafka, event-driven workflows & retries</td>
   </tr>
 
   <tr>
     <td><b>Security & Auth</b></td>
-    <td>JWT, OAuth2, API security best practices</td>
+    <td>JWT, OAuth2, authorization & API security</td>
+  </tr>
+
+  <tr>
+    <td><b>Reliability & Observability</b></td>
+    <td>Logging, health checks, metrics & resilient services</td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>Docker, CI/CD pipelines, deployments & infrastructure fundamentals</td>
   </tr>
 
 </table>
